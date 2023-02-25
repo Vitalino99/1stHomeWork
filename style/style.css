@@ -41,5 +41,21 @@ h4{
 }
 .btn1{
     position: absolute;
+    margin-left: 350px;
     
 }
+
+.description{
+    position: relative;
+}
+
+.btn-large{
+    border: 1px solid black;
+}
+
+.middle-btn{
+    text-align: center;
+}
+
+
+
