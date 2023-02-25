@@ -1,3 +1,6 @@
+body{
+    height: 3500px;
+}
 nav{
     box-shadow: none;
     margin-top: 30PX;
@@ -57,5 +60,15 @@ h4{
     text-align: center;
 }
 
+.icon{
+    width: 20px;
+}
 
+.right{
+    margin: 0px 10px;
+}
 
+i{
+    font-weight: bolder;
+    margin: 0px 10px;
+}
