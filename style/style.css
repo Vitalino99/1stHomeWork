@@ -25,3 +25,21 @@ h4{
 .card{
     box-shadow: none;
 }
+
+.middle{
+    text-align: center;
+   font-size: 40px;
+}
+.middle1{
+    text-align: center;
+    width: 600px;
+}
+
+
+.flex{
+    display: flex;
+}
+.btn1{
+    position: absolute;
+    
+}
